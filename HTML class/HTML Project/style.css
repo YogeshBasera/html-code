@@ -1,0 +1,50 @@
+body{
+
+    background-color:rgb(84 205 249 / 71%);
+    display: flex;
+    justify-content: center;
+}
+.size{
+    height: 710px;
+    width: 590px;
+background-color: white;
+
+}
+
+
+h1 {
+    margin-left: 2rem;
+    font-size: 40px;
+    font-style: oblique;
+    color: #424249cc; 
+}
+
+p {
+    margin-left: 36px;
+    color: #444f4cde;
+    font-size: 18px;
+}
+
+ input{
+    width: 90%;
+    height: 7%;
+    font-size: 16px;
+    padding: 14px;
+    margin-bottom: 23px;
+}
+
+textarea{
+width: 90%;
+height: 22%;
+padding: 14px;
+font-size: 14px;
+}
+
+button{
+    margin-top: 42px;
+    width: 90%;
+    height: 7%;
+    font-size: 23px;
+    color: white;
+    background-color: #0e8c0ec7;
+}
